@@ -1,2 +1,2 @@
-# Omar-s-website
+# Omars-website
 This repo contains my personal website!
